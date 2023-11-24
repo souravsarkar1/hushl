@@ -1,0 +1,104 @@
+{
+    "profiles": [
+        {
+            "id": 1,
+            "imgUrl": "https://www.emlovz.com/wp-content/uploads/2020/01/best-tinder-pics-for-guys-closely-cropped-headshot-3.jpg",
+            "age": 25,
+            "gender": "Male",
+            "name": "John",
+            "location": "City A",
+            "bio": "I enjoy long walks on the beach and coding.",
+            "likes": 0
+        },
+        {
+            "id": 2,
+            "imgUrl": "https://www.lovepanky.com/wp-content/uploads/2017/06/how-to-use-Tinder-1.jpg",
+            "age": 30,
+            "gender": "Female",
+            "name": "Jane",
+            "location": "City B",
+            "bio": "I enjoy long walks on the beach and coding.",
+            "likes": 0
+        },
+        {
+            "id": 3,
+            "imgUrl": "https://example.com/image3.jpg",
+            "age": 22,
+            "gender": "Non-binary",
+            "name": "Alex",
+            "location": "City C",
+            "bio": "I enjoy long walks on the beach and coding.",
+            "likes": 0
+        },
+        {
+            "id": 4,
+            "imgUrl": "https://www.emlovz.com/wp-content/uploads/2020/01/best-tinder-pics-for-guys-closely-cropped-headshot.jpg",
+            "age": 28,
+            "gender": "Male",
+            "name": "Chris",
+            "location": "City D",
+            "bio": "I enjoy long walks on the beach and coding.",
+            "likes": 0
+        },
+        {
+            "id": 5,
+            "imgUrl": "https://dq1eylutsoz4u.cloudfront.net/2017/07/14154228/online-dating-first-message-examples.jpg",
+            "age": 31,
+            "gender": "Female",
+            "name": "Emily",
+            "location": "City E",
+            "bio": "I enjoy long walks on the beach and coding.",
+            "likes": 0
+        },
+        {
+            "id": 6,
+            "imgUrl": "https://www.emlovz.com/wp-content/uploads/2020/01/best-tinder-pics-for-guys-closely-cropped-headshot-2.jpg",
+            "age": 26,
+            "gender": "Male",
+            "name": "David",
+            "location": "City F",
+            "bio": "I enjoy long walks on the beach and coding.",
+            "likes": 0
+        },
+        {
+            "id": 7,
+            "imgUrl": "https://eros.mingle2.com/main/resources/assets/default_1920-9a03f68793a04b47fbc1eb68cfe2f6c2.jpg",
+            "age": 29,
+            "gender": "Female",
+            "name": "Grace",
+            "location": "City G",
+            "bio": "I enjoy long walks on the beach and coding.",
+            "likes": 0
+        },
+        {
+            "id": 8,
+            "imgUrl": "https://example.com/image8.jpg",
+            "age": 24,
+            "gender": "Non-binary",
+            "name": "Jordan",
+            "location": "City H",
+            "bio": "I enjoy long walks on the beach and coding.",
+            "likes": 0
+        },
+        {
+            "id": 9,
+            "imgUrl": "https://www.emlovz.com/wp-content/uploads/2020/01/best-tinder-pics-for-guys-closely-cropped-headshot-4.jpg",
+            "age": 27,
+            "gender": "Male",
+            "name": "Ella",
+            "location": "City I",
+            "bio": "I enjoy long walks on the beach and coding.",
+            "likes": 0
+        },
+        {
+            "id": 10,
+            "imgUrl": "https://www.bonobology.com/wp-content/uploads/2018/03/close-up-portrait-lovable-feminine-gorgeous-cute-cheerful-curious-girl-using-gadget-5g-app-web-dating-service.jpg",
+            "age": 32,
+            "gender": "Female",
+            "name": "Michael",
+            "location": "City J",
+            "bio": "I enjoy long walks on the beach and coding.",
+            "likes": 0
+        }
+    ]
+}
