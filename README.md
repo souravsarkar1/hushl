@@ -14,9 +14,8 @@ This repository contains the source code for a Dating App built with React Nativ
 - **JSON Server Backend:** The backend is powered by a JSON server, providing a simple and lightweight database solution.
 
 ## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+**Loading**
+<img src = "https://i.postimg.cc/pXbq0zFj/aac498af-c9be-4e34-9983-8467d649cd80.jpg" alt = "Loading"/>
 
 ## Tech Stack
 
