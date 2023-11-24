@@ -20,6 +20,8 @@ This repository contains the source code for a Dating App built with React Nativ
 <img src = "https://i.postimg.cc/v8gG7FrB/974ee569-7f2e-4e3c-9824-397170fdf38a-1.jpg" alt = "card"/>
 **Left Swipe**
 <img src = "https://i.postimg.cc/y6PyTtsM/49c9ba63-996f-4816-9898-f8b26c280c8e-1.jpg" alt = "card"/>
+**Right Swipe**
+<img src = "https://i.postimg.cc/PqWw5vqg/3c6e715b-3c63-4a76-af3a-bba41ac82403-1.jpg" alt = "card"/>
 
 ## Tech Stack
 
